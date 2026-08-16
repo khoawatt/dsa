@@ -1,0 +1,15 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "DSA learning repository — pattern-first knowledge base (JavaScript primary, Python secondary)",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "test": "node --test '04-problems/**/*.test.js'",
+    "index": "node scripts/gen-index.js",
+    "review-due": "node scripts/review-due.js",
+    "validate": "node scripts/validate.js",
+    "new-problem": "node scripts/new-problem.js",
+    "new-pattern": "node scripts/new-pattern.js"
+  }
+}
