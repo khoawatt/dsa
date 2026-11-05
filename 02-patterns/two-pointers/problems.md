@@ -2,7 +2,7 @@
 
 ## Level 1
 
-- [ ] Valid Palindrome (lc-125)
+- [x] Valid Palindrome (lc-125)
 - [ ] Two Sum II — Input Array Is Sorted (lc-167)
 - [ ] Remove Duplicates from Sorted Array (lc-26)
 
