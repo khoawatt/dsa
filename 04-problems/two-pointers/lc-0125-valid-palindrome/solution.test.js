@@ -1,23 +1,26 @@
 const { test } = require("node:test");
-const assert = require("node:assert");
-const { isPalindrome } = require("./solution");
+const assert = require("node:assert/strict");
+const {
+  isPalindromeRegex,
+  isPalindromeTwoPointers,
+} = require("./solution");
 
-test("valid palindrome with punctuation and spaces", () => {
-  assert.strictEqual(isPalindrome("A man, a plan, a canal: Panama"), true);
-});
+const cases = [
+  ["letters, spaces and punctuation", "A man, a plan, a canal: Panama", true],
+  ["not a palindrome", "race a car", false],
+  ["digits are included", "0P", false],
+  ["empty after filtering", " ", true],
+  ["single alphanumeric character", "a", true],
+  ["punctuation around one character", ".,a.", true],
+  ["mixed case and digits", "1a2A1", true],
+];
 
-test("not a palindrome", () => {
-  assert.strictEqual(isPalindrome("race a car"), false);
-});
+for (const [name, input, expected] of cases) {
+  test(`RegExp + Reverse: ${name}`, () => {
+    assert.equal(isPalindromeRegex(input), expected);
+  });
 
-test("only spaces becomes an empty string", () => {
-  assert.strictEqual(isPalindrome(" "), true);
-});
-
-test("digits are included", () => {
-  assert.strictEqual(isPalindrome("0P"), false);
-});
-
-test("single alphanumeric character", () => {
-  assert.strictEqual(isPalindrome("a"), true);
-});
+  test(`Two Pointers: ${name}`, () => {
+    assert.equal(isPalindromeTwoPointers(input), expected);
+  });
+}
