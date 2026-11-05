@@ -4,7 +4,7 @@
 
 ## Tổng quan
 
-- 3 pattern, 5 bài.
+- 3 pattern, 6 bài.
 
 ## By Pattern
 
@@ -19,7 +19,7 @@
 
 | Bài | Source | Độ khó | Time/Space | Ngôn ngữ |
 |---|---|---|---|---|
-| [Longest Substring Without Repeating Characters](./04-problems/sliding-window/lc-0003-longest-substring-without-repeating-characters/README.md) | lc-3 | medium | O(n) / O(min(n, k)) | js, py |
+| [Longest Substring Without Repeating Characters](./04-problems/sliding-window/lc-0003-longest-substring-without-repeating-characters/README.md) | lc-3 | medium | O(n) / O(min(n, k)) | js |
 
 ### two-pointers
 
@@ -27,6 +27,7 @@
 |---|---|---|---|---|
 | [Two Sum](./04-problems/two-pointers/lc-0001-two-sum/README.md) | lc-1 | easy | O(n) / O(n) | js, py |
 | [Container With Most Water](./04-problems/two-pointers/lc-0011-container-with-most-water/README.md) | lc-11 | medium | O(n) / O(1) | js, py |
+| [Valid Palindrome](./04-problems/two-pointers/lc-0125-valid-palindrome/README.md) | lc-125 | easy | O(n) / O(n) | js |
 
 ## Templates
 
@@ -58,7 +59,6 @@
 - [heapq_usage.py](./03-templates/python/heapq_usage.py)
 - [prefix_sum.py](./03-templates/python/prefix_sum.py)
 - [sliding_window.py](./03-templates/python/sliding_window.py)
-- [two_pointers.py](./03-templates/python/two_pointers.py)
 - [union_find.py](./03-templates/python/union_find.py)
 
 <!-- INDEX_AUTO_GENERATED -->
