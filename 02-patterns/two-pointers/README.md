@@ -22,7 +22,7 @@ Dùng 2 con trỏ `left`, `right` (hoặc `slow`, `fast`) để duyệt mảng t
 
 ## Invariant
 
-> Các phần tử ngoài khoảng `[left, right]` đã được xử lý xong; mọi cặp khả dĩ còn lại nằm trong khoảng đó.
+> Các phần tử ngoài khoảng [left, right] đã được xử lý xong; mọi cặp khả dĩ còn lại nằm trong khoảng đó.
 
 ## Complexity
 
@@ -39,8 +39,9 @@ Dùng 2 con trỏ `left`, `right` (hoặc `slow`, `fast`) để duyệt mảng t
 
 - `04-problems/two-pointers/lc-0001-two-sum` (biến thể với hash map)
 - `04-problems/two-pointers/lc-0011-container-with-most-water`
+- `04-problems/two-pointers/lc-0125-valid-palindrome` — RegExp + Reverse và Two Pointers.
 
 ## Common confusions
 
-- **Two Pointers vs Sliding Window**: two pointers so sánh 2 phần tử rời rạc; sliding window duy trì 1 khoảng `[left, right]` thỏa điều kiện.
+- **Two Pointers vs Sliding Window**: two pointers so sánh 2 phần tử rời rạc; sliding window duy trì 1 khoảng [left, right] thỏa điều kiện.
 - **Two Pointers vs Binary Search**: binary search bỏ đi **nửa** không gian mỗi bước (log); two pointers bỏ 1 phần tử (n).
