@@ -27,7 +27,7 @@
 |---|---|---|---|---|
 | [Two Sum](./04-problems/two-pointers/lc-0001-two-sum/README.md) | lc-1 | easy | O(n) / O(n) | js, py |
 | [Container With Most Water](./04-problems/two-pointers/lc-0011-container-with-most-water/README.md) | lc-11 | medium | O(n) / O(1) | js, py |
-| [Valid Palindrome](./04-problems/two-pointers/lc-0125-valid-palindrome/README.md) | lc-125 | easy | O(n) / O(n) | js |
+| [Valid Palindrome](./04-problems/two-pointers/lc-0125-valid-palindrome/README.md) | lc-125 | easy | O(n) / O(1) | js |
 
 ## Templates
 
