@@ -4,7 +4,7 @@
 
 ## Tổng quan
 
-- 3 pattern, 6 bài.
+- 4 pattern, 7 bài.
 
 ## By Pattern
 
@@ -20,6 +20,12 @@
 | Bài | Source | Độ khó | Time/Space | Ngôn ngữ |
 |---|---|---|---|---|
 | [Longest Substring Without Repeating Characters](./04-problems/sliding-window/lc-0003-longest-substring-without-repeating-characters/README.md) | lc-3 | medium | O(n) / O(min(n, k)) | js |
+
+### string-parsing
+
+| Bài | Source | Độ khó | Time/Space | Ngôn ngữ |
+|---|---|---|---|---|
+| [String to Integer (atoi)](./04-problems/string-parsing/lc-0008-string-to-integer-atoi/README.md) | lc-8 | medium | O(n) / O(1) | js |
 
 ### two-pointers
 
