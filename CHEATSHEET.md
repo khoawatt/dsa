@@ -72,6 +72,13 @@ connectivity → DFS / BFS / Union Find
 → Trie
 ```
 
+## Parsing / chuyển đổi chuỗi theo quy tắc
+
+```
+leading spaces + optional sign + consecutive digits + overflow
+→ String Parsing / single-pass simulation
+```
+
 ## Ví dụ map nhanh
 
 ```
