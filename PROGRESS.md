@@ -17,6 +17,7 @@ Mastery theo **pattern** (không phải số bài). Thang điểm:
 |---|---|---|
 | Two Pointers | 0 | |
 | String Parsing | 1 | LC 8 — single-pass parsing và overflow check. |
+| String Processing | 1 | LC 14 — vertical scanning để tìm longest common prefix. |
 | Sliding Window | 0 | |
 | Prefix Sum | 0 | |
 | Binary Search | 0 | |
