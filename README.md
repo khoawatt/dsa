@@ -50,6 +50,8 @@ Gặp bài mới → nhận diện pattern → mở pattern note
 | `INDEX.md` | Bảng tra pattern → template → bài (sinh tự động) |
 | `ROADMAP.md` | Lộ trình học 7 phase |
 | `PROGRESS.md` | Mastery theo pattern (0-5) |
+| `PRACTICE-CATALOG.md` | 40 bài Codeforces được nhóm theo pattern |
+| `PRACTICE-CATALOG-OTHER-SITES.md` | 39 bài từ OJ khác + 20 bài bổ sung; giữ cả bài trùng dạng |
 
 ## Cấu trúc thư mục
 
