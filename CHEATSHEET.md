@@ -69,7 +69,8 @@ connectivity → DFS / BFS / Union Find
 ## Chuỗi ký tự / tiền tố
 
 ```
-→ Trie
+common prefix trong một nhóm chuỗi → String Processing / Vertical Scanning
+nhiều thao tác truy vấn prefix → Trie
 ```
 
 ## Parsing / chuyển đổi chuỗi theo quy tắc
