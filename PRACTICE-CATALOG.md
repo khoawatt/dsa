@@ -2,6 +2,11 @@
 
 > Danh mục luyện tập tổng hợp từ PDF gốc, Codeforces và các OJ khác. Không loại bỏ bài trùng pattern: nhiều bài cùng dạng trên nhiều website được giữ lại để luyện lặp.
 
+## Điều hướng
+
+- Codeforces: danh sách trong file này.
+- [39 bài từ các OJ khác và 20 bài bổ sung](./PRACTICE-CATALOG-OTHER-SITES.md).
+
 ## Quy ước
 
 - **[PDF]**: bài/chủ đề có trong tài liệu gốc.
