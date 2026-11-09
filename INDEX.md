@@ -4,7 +4,7 @@
 
 ## Tổng quan
 
-- 4 pattern, 7 bài.
+- 5 pattern, 8 bài.
 
 ## By Pattern
 
@@ -26,6 +26,12 @@
 | Bài | Source | Độ khó | Time/Space | Ngôn ngữ |
 |---|---|---|---|---|
 | [String to Integer (atoi)](./04-problems/string-parsing/lc-0008-string-to-integer-atoi/README.md) | lc-8 | medium | O(n) / O(1) | js |
+
+### string-processing
+
+| Bài | Source | Độ khó | Time/Space | Ngôn ngữ |
+|---|---|---|---|---|
+| [Longest Common Prefix](./04-problems/string-processing/lc-0014-longest-common-prefix/README.md) | lc-14 | easy | O(N * L) / O(1) | js |
 
 ### two-pointers
 
