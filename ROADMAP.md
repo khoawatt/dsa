@@ -1,5 +1,12 @@
 # Roadmap
 
+## Practice Catalog
+
+- [Codeforces — 40 bài](./PRACTICE-CATALOG.md)
+- [Các OJ khác — 39 bài và 20 bài bổ sung](./PRACTICE-CATALOG-OTHER-SITES.md)
+
+Danh sách được nhóm theo pattern; các bài cùng dạng trên nhiều website được giữ lại để luyện lặp.
+
 Lộ trình 7 phase. Tích checkbox khi hoàn thành phase. Bạn đã học thuật ở mức bán chuyên nên không cần đi quá chậm từ con số 0.
 
 ## Phase 0 — Foundations
