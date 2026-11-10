@@ -4,7 +4,7 @@
 
 - [x] Longest Common Prefix (lc-14)
 - [ ] Find the Index of the First Occurrence in a String (lc-28)
-- [ ] Length of Last Word (lc-58)
+- [x] Length of Last Word (lc-58)
 
 ## Level 2
 
